@@ -14,7 +14,7 @@ Next Level Week 6 - Together by Rocketseat 🚀
   </a>
 
   <a href="https://www.linkedin.com/in/rafael-vieira-dos-santos-7a1842201/">
-    <img alt="Changed by Rafael Vieira" src="https://img.shields.io/badge/changed%20by-Douglas_Silva-%2304D361">
+    <img alt="Changed by Rafael Vieira" src="https://img.shields.io/badge/changed%20by-Rafael_Vieira-%2304D361">
   </a>
 
   <a href="https://github.com/douglasilvadev/nlw06-together/blob/main/LICENSE">
