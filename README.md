@@ -4,7 +4,7 @@
 Next Level Week 6 - Together by Rocketseat 🚀
 </h3>&nbsp; 
 
-<p align="center">“A beleza de um movimento não reside em sua aparência, mas no pensamento por trás dele” - Aaron Nimzowitsch</blockquote>&nbsp;
+<p align="center">“Manter o foco e dedicação é a visão para um futuro brilhante"</blockquote>&nbsp;
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rafaelrok/letmeask?color=%2304D361">
