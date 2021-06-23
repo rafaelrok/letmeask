@@ -1,46 +1,81 @@
-# Getting Started with Create React App
+<p align="center"><a href="https://ibb.co/0Qhg7TZ"><img src="https://i.ibb.co/vDZ7Fpm/Letmeask-cover.png" alt="Letmeask-cover" border="0" /></a></p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">
+Next Level Week 6 - Together by Rocketseat 🚀
+</h3>&nbsp; 
 
-## Available Scripts
+<p align="center">“A beleza de um movimento não reside em sua aparência, mas no pensamento por trás dele” - Aaron Nimzowitsch</blockquote>&nbsp;
 
-In the project directory, you can run:
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rafaelrok/letmeask?color=%2304D361">
 
-### `yarn start`
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+  </a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <a href="https://www.linkedin.com/in/rafael-vieira-dos-santos-7a1842201/">
+    <img alt="Changed by Rafael Vieira" src="https://img.shields.io/badge/changed%20by-Douglas_Silva-%2304D361">
+  </a>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  <a href="https://github.com/douglasilvadev/nlw06-together/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+  </a>
 
-### `yarn test`
+  <a href="https://github.com/rafaelrok/letmeask/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/rafaelrok/letmeask?style=social">
+  </a>
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center">  
+  <a href="#rocket-sobre-o-app">Sobre o app</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp;
+  <a href="#computer-instalação-do-app">Instalação do app</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp;
+  <a href="#memo-licença">Licença</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp;
+  <a href="#trophy-créditos">Créditos</a>
+</p>
 
-### `yarn build`
+## :rocket: Sobre o app
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Aplicação feita para perguntas e respostas (Q&A) do evento Next Level Week - Together da Rocketseat. Projeto ainda em construção! 🚧
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="center"><a href="https://ibb.co/12cZ0t0"><img src="https://i.ibb.co/ggYyrLr/Letmeask-Login.png" alt="Letmeask-Login" border="0" /></a>
+<a href="https://ibb.co/t42pFzY"><img src="https://i.ibb.co/rmp2N35/Letmeask-Room.png" alt="Letmeask-Room" border="0" /></a></p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Template da aplicação
 
-### `yarn eject`
+O template utilizado está disponível na seguinte url: **[Acessar Template](https://github.com/rafaelrok/letmeask)**
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :computer: Instalação do app
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Requisitos
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Antes de instalar, você precisa ter em sua máquina o [Node.js](https://nodejs.org/en/download/) e o [Yarn](https://yarnpkg.com/) para rodar o app.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Pelo terminal, clone e entre no projeto**
 
-## Learn More
+```bash
+$ git clone https://github.com/rafaelrok/letmeask.git && cd letmeask
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Agora execute os scripts**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+# Instalação das dependências
+$ yarn
+
+# Configure seu .env.local seguindo o modelo .env.example
+
+# Acessar pelo browser
+$ yarn start
+```
+
+Pronto! Seu app vai estar acessível pelo navegador no endereço [localhost:3000](http://localhost:3000)
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [License](LICENSE) para mais detalhes.
+
+---
+
+## :trophy: Créditos
+
+Feito com 💜 by Rocketseat & alterado by Douglas Silva 💪 [Rocketseat at Discord](https://discordapp.com/invite/gCRAFhc)
