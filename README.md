@@ -17,7 +17,7 @@ Next Level Week 6 - Together by Rocketseat 🚀
     <img alt="Changed by Rafael Vieira" src="https://img.shields.io/badge/changed%20by-Rafael_Vieira-%2304D361">
   </a>
 
-  <a href="https://github.com/douglasilvadev/nlw06-together/blob/main/LICENSE">
+  <a href="https://github.com/rafaelrok/letmeask/blob/add-license-1/LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
   </a>
 
