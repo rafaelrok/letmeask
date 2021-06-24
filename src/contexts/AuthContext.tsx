@@ -1,6 +1,4 @@
-import { useState } from "react";
-import { useEffect } from "react";
-import { createContext, ReactNode } from "react";
+import { createContext, ReactNode, useEffect, useState } from "react";
 import { auth, firebase } from "../services/firebase";
 
 type User = {
