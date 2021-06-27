@@ -5,7 +5,7 @@
 
     aside {
         flex: 7;
-        background: #835afd;
+        background: #323D9B;
         color: #ffffff;
         display: flex;
         flex-direction: column;
@@ -48,7 +48,25 @@
 
         >img {
             align-self: center;
-            border-radius: 50%;
+        }
+
+        >div{
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            max-width: 340px;
+            gap: 16px;
+
+            >img {
+                align-self: center;
+                border-radius: 50%;
+            }
+            
+            >h1 {
+                font-family: 'Poppins', sans-serif;
+                font-size: 24px;
+                color: #29292e;
+            }
         }
 
         h2{
@@ -81,7 +99,7 @@
             margin-top: 16px;
 
             a{
-                color: #e559f9;
+                color: #59B6F9;
             }
         }
     }

@@ -2,7 +2,7 @@ import { FormEvent, useState } from 'react'
 import { useHistory } from 'react-router-dom'
 
 import illustrationImg from '../assets/images/illustration.svg'
-import LogoImg from '../assets/images/logo.svg'
+import LogoImg from '../assets/images/Logo2.svg'
 import googleIconImg from '../assets/images/google-icon.svg'
 
 import { Button } from '../components/Button';
@@ -54,7 +54,7 @@ export function Home() {
         <div id="page-auth">
             <aside>
                 <img src={illustrationImg} alt="Perguntas e Respostas" />
-                <strong>Crie Salas de Q&amp;A ao-vivo </strong>
+                <strong>Para toda pergunta existe uma resposta </strong>
                 <p>Tire suas dúvidas da sua audiência em tempo-real</p>
             </aside>
             <main>
