@@ -1,7 +1,7 @@
-<p align="center"><a href="https://ibb.co/0Qhg7TZ"><img src="https://i.ibb.co/vDZ7Fpm/Letmeask-cover.png" alt="Letmeask-cover" border="0" /></a></p>
+<p align="center"><a href="https://ibb.co/ZT0dh1L"><img src="https://i.ibb.co/vDZ7Fpm/Letmeask-cover.png" alt="Letmeask-cover" border="0" /></a></p>
 
 <h3 align="center">
-Next Level Week 6 - Together by Rocketseat 🚀
+https://letmeask-ed81d.firebaseapp.com/
 </h3>&nbsp; 
 
 <p align="center">“Manter o foco e dedicação é a visão para um futuro brilhante"</blockquote>&nbsp;
@@ -37,8 +37,8 @@ Next Level Week 6 - Together by Rocketseat 🚀
 
 Aplicação feita para perguntas e respostas (Q&A) do evento Next Level Week - Together da Rocketseat. Projeto ainda em construção! 🚧
 
-<p align="center"><a href="https://ibb.co/12cZ0t0"><img src="https://i.ibb.co/ggYyrLr/Letmeask-Login.png" alt="Letmeask-Login" border="0" /></a>
-<a href="https://ibb.co/t42pFzY"><img src="https://i.ibb.co/rmp2N35/Letmeask-Room.png" alt="Letmeask-Room" border="0" /></a></p>
+<p align="center"><a href="https://ibb.co/ZT0dh1L"><img src="https://i.ibb.co/ggYyrLr/Letmeask-Login.png" alt="Letmeask-Login" border="0" /></a>
+<a href="https://ibb.co/JB6PT5K"><img src="https://i.ibb.co/rmp2N35/Letmeask-Room.png" alt="Letmeask-Room" border="0" /></a></p>
 
 ### Template da aplicação
 
