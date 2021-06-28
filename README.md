@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ibb.co/ZT0dh1L"><img src="https://i.ibb.co/vDZ7Fpm/Letmeask-cover.png" alt="Letmeask-cover" border="0" /></a></p>
+<p align="center"><a href="https://ibb.co/ZT0dh1L"><img src="https://i.ibb.co/88HMj4K/Captura-de-tela-2021-06-27-224404.png" alt="Letmeask-cover" border="0" /></a></p>
 
 <h3 align="center">
 https://letmeask-ed81d.firebaseapp.com/
@@ -37,8 +37,8 @@ https://letmeask-ed81d.firebaseapp.com/
 
 Aplicação feita para perguntas e respostas (Q&A) do evento Next Level Week - Together da Rocketseat. Projeto ainda em construção! 🚧
 
-<p align="center"><a href="https://ibb.co/ZT0dh1L"><img src="https://i.ibb.co/ggYyrLr/Letmeask-Login.png" alt="Letmeask-Login" border="0" /></a>
-<a href="https://ibb.co/JB6PT5K"><img src="https://i.ibb.co/rmp2N35/Letmeask-Room.png" alt="Letmeask-Room" border="0" /></a></p>
+<p align="center"><a href="https://ibb.co/ZT0dh1L"><img src="https://i.ibb.co/88HMj4K/Captura-de-tela-2021-06-27-224404.png" alt="Letmeask-Login" border="0" /></a>
+<a href="https://ibb.co/JB6PT5K"><img src="https://i.ibb.co/FxZt1gK/Captura-de-tela-2021-06-27-230017.png" alt="Letmeask-Room" border="0" /></a></p>
 
 ### Template da aplicação
 
